@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://commit-history.com/eggei">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/eggei?theme=dark" />
+      <img alt="eggei's commit history" src="https://commit-history.com/embed/eggei" />
+    </picture>
+  </a>
+</div>
 
 <!--
 **eggei/eggei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
